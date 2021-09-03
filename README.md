@@ -6,9 +6,12 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4_b8tjvj5Ny75CThuxB9Zw)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/marelps)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/224lnufzybwfccdfsnsallyuq?si=a5e5344011d84071) </br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marelps&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marelps&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+ <div>
+  <a href="https://github.com/marelps">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marelps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marelps&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### Tecnologias que utilizo e estou estudando 🌹
 
