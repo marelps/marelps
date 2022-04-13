@@ -1,10 +1,11 @@
 
-# Olá! Meu nome é Vitória Garrucho 🌺
+# Hello Everyone! My name is Vitória 🌺
 <img align="right" alt="Vitoria GIF" src="https://i.picasion.com/pic92/b906285d2fa2de7234f73153a3d5ef04.gif" />
 <img align="right" alt="build with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
-<p>Bacharel em Ciência da Computação e técnico em informática para internet, 21 anos, grande amante da tecnologia e jogos. Me considero bastante criativa e estou sempre procurando coisas novas para estudar.<br/><br/> Atualmente estou a procura do meu primeiro emprego na área do front-end e no meu perfil você encontrará alguns dos meus projetos pessoais e de estudos, em que sempre tento trazer um pouco daquilo que gosto. Fique a vontade de me procurar em outras redes sociais para contato, estou sempre abertas a novas ideias e conversas boas.</p>
+<p>
+Bachelor in computer science and internet computer technician, 21 years old, big lover of technology and games. I consider myself creative and always search for new things to study, so I also believe I am self taught.<br/><br/> Currently I am looking for my first job in the front-end area and in my profile you will find some personal projects in which I always try to bring something I like. Feel free to send a message me on other social networks for contact, I'm always open to new ideas and good conversations.</p>
 
-> *"Acredite em você mesmo e em todas as possiblidades, mesmo que pequenas"* - **Kim Namjoon**
+> *"If we believe in possibilities and hope, even when the unexpected happens we won't lose our way, but discover a new one"* - **Kim Namjoon**
 
 <div> 
 <a href="https://www.instagram.com/marelps/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -21,7 +22,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marelps&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Tecnologias que utilizo e estou estudando 🌹
+### Technologies that I use and studying 🌹
 <div style="display: inline_block" align="center">
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -30,7 +31,6 @@
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 <br/></div>
 
- ### Olha a cobra!! 🐍
 <div align="center">
  
 ![Snake animation](https://github.com/marelps/marelps/blob/output/github-contribution-grid-snake.svg) 
