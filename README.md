@@ -15,12 +15,13 @@ Bachelor in computer science and internet computer technician, 21 years old, big
  <a href="mailto:vitoriagarrucho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/piterparquinho" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div><br/><br/>
-
+<!---
 <div align="center">
 <a href="https://github.com/marelps">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marelps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marelps&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+-->
 
 ### Technologies that I use and studying 🌹
 <div style="display: inline_block" align="center">
