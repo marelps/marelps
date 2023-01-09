@@ -13,13 +13,6 @@ Bachelor in computer science and internet computer technician, 22 years old, big
 <a href="https://www.youtube.com/channel/UC4_b8tjvj5Ny75CThuxB9Zw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="mailto:vitoriagarrucho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br/><br/>
-<!---
-<div align="center">
-<a href="https://github.com/marelps">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marelps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marelps&layout=compact&langs_count=7&theme=dracula"/>
-</div>
--->
 
 ### Technologies that I use and studying 🌹
 <div style="display: inline_block" align="center">
@@ -28,9 +21,17 @@ Bachelor in computer science and internet computer technician, 22 years old, big
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 <br/></div>
 
+<!--
+<div align="center">
+<a href="https://github.com/marelps">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marelps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marelps&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <div align="center">
  
 ![Snake animation](https://github.com/marelps/marelps/blob/output/github-contribution-grid-snake.svg) 
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=marelps&color=red" alt="Profile views" /> </p>
  
 </div>
+-->
