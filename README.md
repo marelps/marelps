@@ -19,8 +19,10 @@ Bachelor in computer science and internet computer technician, 22 years old, big
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-<br/></div>
+<br/><br/>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=marelps&theme=modern-lilac2&border_radius=5.2)](https://git.io/streak-stats)</div>
 <!--
 <div align="center">
 <a href="https://github.com/marelps">
