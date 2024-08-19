@@ -21,10 +21,8 @@
     │       └── [Instagram](instagram.com/vitoriagarrucho)
     │
     ├── /os
-    │   ├── /linux
-    │   │   └── arch_linux (main)
-    │   └── /windows
-    │       └── Windows 11: with WSL (Ubuntu 18.3)
+    │   ├── /windows
+    │   └── /linux
     │
     ├── /languages
     │   ├── html5/css3
