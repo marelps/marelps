@@ -25,20 +25,16 @@
     │   └── /linux
     │
     ├── /languages
-    │   ├── html5/css3
     │   ├── SASS.scss
-    │   ├── git
     │   ├── javascript.js
     │   ├── bootstrap
-    │   ├── typescript.ts
-    │   └── python.py
-    │
+    │   └── react.js
+    │  
     └── /learning
         ├── java.class
-        ├── react.js
-        └── vue.js
+        ├── node.js
+        ├── mongodb
+        └── typescript.ts
 
-
-    8Y3!!
   </tr>
 </table>
