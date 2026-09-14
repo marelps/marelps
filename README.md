@@ -13,28 +13,18 @@
     /About_Me
     │
     ├── /bio
-    │   ├── she/her - brazilian - (pt/br + English)
-    │   ├── /computer science undergraduated
+    │   ├── she/her - brazilian - (pt/br + eng)
+    │   ├── /computer science, graphic design
     │   ├── /social media
-    │       ├── [email](vitoriagarrucho@gmail.com)
+    │       ├── [email](themahosho@gmail.com)
     │       ├── [Linkedin](linkedin.com/in/vitoriagarrucho)
-    │       └── [Instagram](instagram.com/vitoriagarrucho)
+    │       └── [Behance](behance.net/vitoriagarrucho)
     │
-    ├── /os
-    │   ├── /windows
-    │   └── /linux
-    │
-    ├── /languages
-    │   ├── SASS.scss
-    │   ├── javascript.js
-    │   ├── bootstrap
-    │   └── react.js
-    │  
-    └── /learning
-        ├── java.class
-        ├── node.js
-        ├── mongodb
-        └── typescript.ts
+    └── /languages
+        ├── SASS.scss
+        ├── javascript.js
+        ├── bootstrap
+        └── react.js
 
   </tr>
 </table>
